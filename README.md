@@ -155,9 +155,9 @@ const shivam = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## 📊 GitHub Stats
 
-<div align="center">
+
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shivam2005Goel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam2005Goel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=FFFFFF" alt="Top Languages" height="180"/>
 </div>
@@ -168,7 +168,7 @@ const shivam = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam2005Goel&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF" alt="Contribution Graph"/>
-</div>
+</div> -->
 
 ## 💻 LeetCode Stats
 
@@ -236,16 +236,6 @@ competencies = {
     "Architecture": ["Microservices", "System Design", "Scalable Solutions"]
 }
 ```
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-## 📈 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shivam2005Goel/Shivam2005Goel/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shivam2005Goel/Shivam2005Goel/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shivam2005Goel/Shivam2005Goel/output/github-contribution-grid-snake.svg">
-</picture>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
