@@ -118,7 +118,16 @@ const shivam = {
 
 ## 🚀 Featured Projects
 
-### 🏥 [AI-Powered Clinical Trial Analytics & Risk Monitoring](https://github.com/Shivam2005Goel)
+### 🚀 [GYANGROW – AI-Powered Campus Operating System](https://gyan-grow.vercel.app/)
+**Tech Stack:** Next.js | React 19 | TypeScript | Tailwind CSS | Google Gemini AI | Tesseract.js | Vapi Voice AI | Leaflet.js | Chart.js | Recharts
+
+- 🎓 40+ integrated campus tools for academics, career prep, navigation, and productivity in one unified platform<br>
+- 🤖 AI-powered features including multilingual chatbot, AI mock interview simulator, and career roadmap generator<br>
+- 📄 Automated answer-sheet evaluation using OCR + AI with detailed feedback<br>
+- 🗺️ Interactive campus navigation & event mapping using Leaflet.js for easy location discovery<br>
+- 📊 Visual analytics dashboards for attendance tracking and student activity insights
+
+### 🏥 [AI-Powered Clinical Trial Analytics & Risk Monitoring](clinical-data-analysis-hackathon-k3.vercel.app)
 **Tech Stack:** Python | GPT-4 | Pandas | NumPy | SQL | Firebase | Supabase | Recharts
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
