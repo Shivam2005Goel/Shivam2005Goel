@@ -25,9 +25,9 @@ const shivam = {
 };
 ```
 
-🔭 **Currently Working On:** AI-Powered Analytics Platforms & Clinical Data Systems  
+🔭 **Currently Working On:** AI-Powered Fraud Detection & Clinical Data Systems  
 🌱 **Learning:** Advanced LLM Integration, Cloud Architecture & DevOps  
-💼 **Experience:** SDE Intern @ Bluestock Fintech | Full Stack Developer @ The Sparks Foundation  
+💼 **Experience:** Software Developer Intern @ Argmac Private Limited  
 🎯 **Goal:** Building scalable solutions that make a real-world impact  
 ⚡ **Achievement:** 50 Days LeetCode Badge | 250+ Problems Solved  
 
@@ -98,25 +98,26 @@ const shivam = {
 
 ## 💼 Work Experience
 
-### 🚀 **Bluestock Fintech** - SDE Intern
-*Oct 2025 - Nov 2025*
+### 🚀 **Argmac Private Limited** - Software Developer Intern
+*May 2026 - June 2026*
 
-- 🎯 Co-led development of **Bluestock IPO Tracker** - Full-stack platform with React + Tailwind & Django REST APIs
-- 🔐 Implemented **JWT authentication** & secure session management for enterprise-grade security
-- 📊 Built **real-time IPO analytics dashboards** processing structured datasets in PostgreSQL
-- ⚙️ Designed backend data models & API pipelines for real-time metrics & historical analysis
-- 👨‍💼 Created admin panel for DRHP/RHP document management
-
-### 💡 **The Sparks Foundation** - Full Stack Developer
-*Jan 2025 - Feb 2025*
-
-- 🏦 Developed comprehensive **Bank Management System** using MERN stack
-- 🔒 Implemented secure authentication & role-based access control
-- 💳 Built transaction features with responsive dashboard
+- 🏗️ Built a full-stack **ERP platform (7 modules)** with JWT auth and RBAC, plus a companion Flutter mobile app extending core modules to Android/iOS with real-time backend sync, serving **13 internal users** across the organization
+- ⚡ Tuned **PostgreSQL performance** via indexing and execution-plan analysis, cutting query latency **3.1x (7.8ms → 2.5ms)** and removing dead indexes while maintaining ~99-100% buffer cache hit ratio
+- 🚀 Engineered a **multi-layer caching architecture** that boosted API throughput **52% (21.7 → 33.1 req/sec)** and cut P99 latency **29%** under concurrent load
+- 👥 Led a 3-person cross-functional team collaborating with product and business stakeholders to translate requirements into 7 production-grade modules used by 13 internal users, owning end-to-end testing and debugging across the full platform
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 🚀 Featured Projects
+
+### 🕵️ [IntelliTrace – AI Fraud Detection Platform](https://intellitrace-hackathon.vercel.app/)
+**Tech Stack:** React.js | Node.js | Redis | Neo4j | Gemini API
+
+- 🧾 Designed an advanced **6-layer fraud detection architecture** that accepts uploaded invoices and returns a real-time fraud risk score, identifying complex phantom invoice and carousel fraud patterns
+- ⚡ Built an instantaneous duplicate borrower detection engine leveraging **Redis-backed HMAC fingerprinting** for low-latency sub-400ms scoring workflows
+- 🕸️ Developed graph-based fraud intelligence layers utilizing **Neo4j relationship mappings** and LLM-generated risk narratives to explain each invoice's risk score by surfacing hidden borrower-invoice connections across transaction networks
+
+**[🔗 Live Demo](https://intellitrace-hackathon.vercel.app/)** | **[💻 GitHub](https://github.com/Shivam2005Goel/Intellitrace_hackathon.git)**
 
 ### 🚀 [GYANGROW – AI-Powered Campus Operating System](https://gyan-grow.vercel.app/)
 **Tech Stack:** Next.js | React 19 | TypeScript | Tailwind CSS | Google Gemini AI | Tesseract.js | Vapi Voice AI | Leaflet.js | Chart.js | Recharts
@@ -126,6 +127,8 @@ const shivam = {
 - 📄 Automated answer-sheet evaluation using OCR + AI with detailed feedback<br>
 - 🗺️ Interactive campus navigation & event mapping using Leaflet.js for easy location discovery<br>
 - 📊 Visual analytics dashboards for attendance tracking and student activity insights
+
+**[🔗 Live Demo](https://gyan-grow.vercel.app/)** | **[💻 GitHub](https://github.com/Shivam2005Goel/GyanGrow.git)**
 
 ### 🏥 [AI-Powered Clinical Trial Analytics & Risk Monitoring](clinical-data-analysis-hackathon-k3.vercel.app)
 **Tech Stack:** Python | GPT-4 | Pandas | NumPy | SQL | Firebase | Supabase | Recharts
@@ -142,6 +145,8 @@ const shivam = {
 
 <br clear="right"/>
 
+**[🔗 Live Demo](https://clinical-data-analysis-hackathon-k3.vercel.app/)** | **[💻 GitHub](https://github.com/Shivam2005Goel/Clinical_Data_Analysis_Hackathon.git)**
+
 ### 🗳️ [WE-VOTE - Secure Voting Platform](https://github.com/Shivam2005Goel)
 **Tech Stack:** React.js | Node.js | Express.js | MongoDB | JWT | bcrypt
 
@@ -156,6 +161,8 @@ const shivam = {
 - 🚚 **15% reduction** in delivery distance using route optimization
 - 📉 **20% cut** in inventory mismatches
 
+**[🔗 Live Demo](https://gogreen-psi-one.vercel.app/)** | **[💻 GitHub](https://github.com/Shivam2005Goel/Sustainability_Carbon_hackathon.git)**
+
 ### 🎓 [Smart College Management System](https://github.com/Shivam2005Goel)
 **Tech Stack:** AI | NLP | Voice API | Modern UI/UX
 
@@ -163,21 +170,6 @@ const shivam = {
 - 🎨 Modern, intuitive UI for enhanced usability
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-
-
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivam2005Goel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam2005Goel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=FFFFFF" alt="Top Languages" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam2005Goel&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam2005Goel&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF" alt="Contribution Graph"/>
-</div> -->
 
 ## 💻 LeetCode Stats
 
@@ -222,13 +214,25 @@ const shivam = {
 
 ## 🏆 Achievements & Certifications
 
-<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30"> **50 Days LeetCode Badge** - Solved 250+ problems efficiently
+🏅 **Achievements**
 
-<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30"> **Team Leadership** - Led team of 15 developers, increasing engagement by 35%
+<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30"> **NEST 2.0 Hackathon** - Semi-Finalist (Top 30 / 1,600+)
+
+<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30"> **AWS 10K Hackathon** - Top 300 globally
+
+<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30"> **Intellitrace & BIS Hackathon** - Runner-Up at VIT Chennai
+
+<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30"> **LeetCode** - 300+ Solved (Top 12% Contester)
+
+<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30"> **CodeChef** - 3-Star Coder (Max Rating 1600+)
+
+<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30"> **Open Source** - Contributed to 3 repositories
 
 📜 **Certifications:**
-- The Complete Web Development Course 2024 - Udemy
-- Python and C++ Training - Spoken Tutorial, IIT Bombay
+- IBM Agentic AI
+- Python Programming – IIT Bombay
+- AWS Cloud Practitioner (In Progress)
+- C++ Programming – IIT Bombay
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
