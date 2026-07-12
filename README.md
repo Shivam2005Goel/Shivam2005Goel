@@ -29,7 +29,7 @@ const shivam = {
 🌱 **Learning:** Advanced LLM Integration, Cloud Architecture & DevOps  
 💼 **Experience:** Software Developer Intern @ Argmac Private Limited  
 🎯 **Goal:** Building scalable solutions that make a real-world impact  
-⚡ **Achievement:** 50 Days LeetCode Badge | 250+ Problems Solved  
+⚡ **Achievement:** 50 Days LeetCode Badge | 300+ Problems Solved  
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -147,12 +147,6 @@ const shivam = {
 
 **[🔗 Live Demo](https://clinical-data-analysis-hackathon-k3.vercel.app/)** | **[💻 GitHub](https://github.com/Shivam2005Goel/Clinical_Data_Analysis_Hackathon.git)**
 
-### 🗳️ [WE-VOTE - Secure Voting Platform](https://github.com/Shivam2005Goel)
-**Tech Stack:** React.js | Node.js | Express.js | MongoDB | JWT | bcrypt
-
-- 🔐 Secured personal data for **1,000+ users** during college elections
-- 🛡️ Implemented bcrypt hashing & JWT-based sessions
-- ✅ Prevented unauthorized access while ensuring voting privacy
 
 ### 🌿 [GO-GREEN - Warehouse Management](https://github.com/Shivam2005Goel)
 **Tech Stack:** React.js | Node.js | Express.js | PostgreSQL | Amazon RDS
@@ -162,6 +156,13 @@ const shivam = {
 - 📉 **20% cut** in inventory mismatches
 
 **[🔗 Live Demo](https://gogreen-psi-one.vercel.app/)** | **[💻 GitHub](https://github.com/Shivam2005Goel/Sustainability_Carbon_hackathon.git)**
+
+### 🗳️ [WE-VOTE - Secure Voting Platform](https://github.com/Shivam2005Goel)
+**Tech Stack:** React.js | Node.js | Express.js | MongoDB | JWT | bcrypt
+
+- 🔐 Secured personal data for **1,000+ users** during college elections
+- 🛡️ Implemented bcrypt hashing & JWT-based sessions
+- ✅ Prevented unauthorized access while ensuring voting privacy
 
 ### 🎓 [Smart College Management System](https://github.com/Shivam2005Goel)
 **Tech Stack:** AI | NLP | Voice API | Modern UI/UX
